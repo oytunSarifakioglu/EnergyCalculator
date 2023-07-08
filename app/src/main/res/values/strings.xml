@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EnergyCalculator</string>
+    <string name="submit_button_text">SUBMIT</string>
+    <string name="house_id_hint">HouseID</string>
+    <string name="unit_hint">Unit</string>
+    <string name="save_button_text">SAVE</string>
+</resources>
